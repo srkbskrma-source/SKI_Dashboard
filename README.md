@@ -39,10 +39,6 @@ The dashboard was built using the following tools and technologies:
 
 ⦁	Data Source
 
-More info on where the data comes from and how it’s structured
-
-Example:
-
 Source: Ski-resort-stats.com & NASA Earth Observations. 
 
 
@@ -51,19 +47,6 @@ Data on ~500 ski resorts around the world, including details on their location, 
 
 
 ⦁	Features / Highlights
-
-The best dashboard explanation format. 
-
-⦁	Business problem
-
-⦁	Goal of the dashboard
-
-⦁	Walk through of key visuals (briefly!)
-
-⦁	Business impact & Insights
-
-
-Example:
 
 ⦁	Business Problem
 
@@ -159,4 +142,5 @@ Regional Analysis: Governments and tourism bodies can analyze competitiveness by
 Show what the dashboard looks like.
 
 Example: 
+<img width="1495" height="742" alt="Snapshot of the Dahbaord" src="https://github.com/user-attachments/assets/f2876762-c168-4e72-aeab-88e01bd68b25" />
  # SKI_Dashboard
